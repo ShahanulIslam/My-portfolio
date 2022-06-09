@@ -21,5 +21,7 @@ section{
     background-image: linear-gradient(tomato,orange);
     padding: 10px 25px;
     border-radius: 5px;
-
+}
+.second-section{
+    padding: 100px 0px 0px 0px;
 }
