@@ -1,3 +1,25 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.half-width{
+   width: 50%;
+   padding-left: 10%;
+}
+.half-width img{
+max-width: 100%;
+}
+section{
+    display: flex;
+}
+.half-width span{
+    color: tomato;
+}
+.half-width a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(8, 0, 0);
+    background-image: linear-gradient(tomato,orange);
+    padding: 10px 25px;
+    border-radius: 5px;
+
+}
